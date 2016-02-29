@@ -15,4 +15,4 @@ document.getElementById("addition").innerHTML = "When I add " + four + " pieces 
 document.getElementById("subtract").innerHTML = "When I subtract " + eight + " chocolate truffles from " + four + " chocolate truffles" + " I get " + subtract + " chocolate truffles";
 document.getElementById("multiply").innerHTML = "When I multiply " + four + " fish tacos by " + eight + " fish tacos I get " + multiply + " fish tacos";
 document.getElementById("divide").innerHTML = "When I divide " + eight + " baguettes by " + four + " baguettes " + " I get " + divide + " baguettes"; 
-Status API Training Shop Blog About Pricing
+
